@@ -1,0 +1,7 @@
+.highcharts-tooltip span {
+    height: auto;
+    width: 250px;
+    overflow: auto;
+    padding: 15px;
+    white-space: normal !important;
+}
